@@ -1,0 +1,6 @@
+{
+  "name": "Ecarttop",
+  "description": "Professional engineering and land surveying services specializing in topography, GIS, and UAV drone scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
